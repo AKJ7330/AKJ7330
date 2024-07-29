@@ -1,51 +1,36 @@
-<h1 align="center">💠 👋, 𝘐'𝘮 Arpan ! 💠</h1>
-<div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
-</div>
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Konichiwa!...)](https://git.io/typing-svg)
+</br>
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=About%Me💬 )](https://git.io/typing-svg) 
+<big><pre>
+&#62; ./send_me_an_email
+[arpankumarjena2002@gmail.com](arpankumarjena2002@gmail.com)
+&#62; ./connect_on_linkedin
+[www.linkedin.com/in/arpan-kumar-jena-62aabb232](www.linkedin.com/in/arpan-kumar-jena-62aabb232)
+
+### - I'm Jeffrey, a mechanical undergrade student having a keen interest in mechanical designs and R&D.
+
+<img width="200" alt="GIF" align="left" src="https://i.pinimg.com/564x/8b/c9/8f/8bc98f848e8df05b110c82fe5be84084.jpg">
+  
+### - Currently Learning
+- SolidWorks
+- Ansys FEA
+- Ansys CFD
+- Autodesk Fusion 360
+- Creo
+- SimScale
+
+### - Hobbies
+- Watching Anime
+- Playing video games
+- Scientific research
 <br>
-
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-
-<ul>
-  <li> 📺 Currently working as <b>86 an Intern at Cummins Inc., India </b></li>
-  <li> 🔭 I’m currently working on <b>various CAD and CAE projects </b></li>
-  <li> 🎮 I’m currently playing <b>FC 24</b> or <b>Valorant</b></li>
-  <li> 🤔 I’m looking for help with <b>research projects</b></li>
-  <li> 📫 How to reach me: <b>arpankumarjena2002@gmail.com</b></li>
-</ul>
-
-<div align="center">
-    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
-    <a href="[https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1](https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE)"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
-</div>
+<a href="https://jefftrojan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefftrojan&show_icons=true&theme=blue-green&count_private=true&hide=stars" />
+</a>
+</br>
 
 
-<br>
+<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='600'>
 
 
-<div>
-<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
-</div>
-<div align="center">
-  <p align = "center">An entry-level Mechanical Design engineer looking out for some great opportunities in Research and Developement<br></p>
-
-  </p>
-  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
-</div>
-
-<br>
-
-
-<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
-<div align="center">
-  <a href="www.linkedin.com/in/arpan-kumar-jena-62aabb232">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
- 
-
-<h1 align="center"></h1>
-
-[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
-
-              
