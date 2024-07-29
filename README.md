@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="centre" alt="Coding" width="600" src="[https://cdn.dribbble.com/users/116207...](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRkdjRsaHNkOXI2eG85YTYwaTI1d2Roa2tkcnpmNW91Mnh5cmtvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif)">
 
 ###
 
