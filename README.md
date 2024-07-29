@@ -1,42 +1,51 @@
+<h1 align="center">💠 👋, 𝘐'𝘮 Arpan ! 💠</h1>
 <div align="center">
-  <img height="150" src="https://tenor.com/bNwpE.gif"  />
+  <img width="720" height="auto" src=Add-ons/FSN.gif>
 </div>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Arpan Kumar Jena from Bhubaneswar, Odisha<br><br>- 🔭 I’m working as an intern in Cummins Inc.<br>- 📚 I'm currently learning various 3D modelling softwares and simulation softwares.<br>- ⚡ In my free time I play video games and conduct some research works in scientific domain.</p>
-
-###
-
-<div align="left">
-</div>
-
-###
+<ul>
+  <li> 📺 Currently working as <b>86 an Intern at Cummins Inc., India </b></li>
+  <li> 🔭 I’m currently working on <b>various CAD and CAE projects </b></li>
+  <li> 🎮 I’m currently playing <b>FC 24</b> or <b>Valorant</b></li>
+  <li> 🤔 I’m looking for help with <b>research projects</b></li>
+  <li> 📫 How to reach me: <b>arpankumarjena2002@gmail.com</b></li>
+</ul>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AKJ7330&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
+    <a href="[https://open.spotify.com/user/1ecl2g5fu3hgbdnees4dt53ct?si=ce25b550ed6f46d0%3F_authfailed%3D1&nd=1](https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE)"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Josh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/AKJ7330/AKJ7330/output/snake.svg" alt="Snake animation" />
+<br>
 
-###
+
+<div>
+<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
+</div>
+<div align="center">
+  <p align = "center">An entry-level Mechanical Design engineer looking out for some great opportunities in Research and Developement<br></p>
+
+  </p>
+  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
+</div>
+
+<br>
+
+
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<div align="center">
+  <a href="www.linkedin.com/in/arpan-kumar-jena-62aabb232">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+ 
+
+<h1 align="center"></h1>
+
+[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
+
+              
