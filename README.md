@@ -1,15 +1,42 @@
-# 💫 About Me:
-I'm Arpan Kumar Jena from Bhubaneswar, Odisha<br><br>- 🔭 I’m working as an intern in Cummins Inc.<br>- 📚 I'm currently learning various 3D modelling softwares and simulation softwares.<br>- ⚡ In my free time I play video games and conduct some research works in scientific domain.
+<div align="center">
+  <img height="150" src="https://tenor.com/bNwpE.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpanjena_1211) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpan-kumar-jena-62aabb232/) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AKJ7330&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AKJ7330&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKJ7330&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Arpan Kumar Jena from Bhubaneswar, Odisha<br><br>- 🔭 I’m working as an intern in Cummins Inc.<br>- 📚 I'm currently learning various 3D modelling softwares and simulation softwares.<br>- ⚡ In my free time I play video games and conduct some research works in scientific domain.</p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AKJ7330&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AKJ7330/AKJ7330/output/snake.svg" alt="Snake animation" />
+
+###
