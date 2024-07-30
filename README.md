@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Arpan Kumar Jena from Bhubaneswar, Odisha<br><br>- 🔭 I’m working as intern at Cummins Inc.<br>- 📚 I'm currently learning  various CAD models and simulations projects <br>- ⚡ In my free time I play video games</p>
+<p align="left">I'm Arpan Kumar Jena from Bhubaneswar, Odisha<br><br>- 🔭 I’m working as intern at Cummins Inc.<br>- 📚 I'm currently learning  various CAD models and simulations projects <br>- ⚡ In my free time I do like to research various sciience related projects</p>
 
 
 
